@@ -1,13 +1,4 @@
-# GmailBomber
-A Simple Tool To Bomb Emails using Your Gmail .
-
-![GmailBomber](https://i.ibb.co/7nhgnwB/IMG-20190912-020133.jpg)
-
-## How to Use
-
-- Sign in to your Gmail
-- Visit https://www.google.com/settings/security/lesssecureapps
-- Turn on Less Secure App Logins
+# FAKE - EMAIL
 
 ### Termux or Terminal
 
@@ -18,14 +9,12 @@ apt upgrade
 apt update
 pkg install git
 pkg install python2
-git clone https://github.com/ArnabXD/GmailBomber.git
+git clone https://github.com/RekiXploit/fake-email
 ```
 
 #### Run
 
 ```bash
-cd GmailBomber
-python2 bomb.py
+cd fake-email
+python2 fake.py
 ```
-
-Follow The Onscreen Prompts .
