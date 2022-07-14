@@ -8,7 +8,7 @@
 pkg update && pkg upgrade
 pkg install git
 pkg install python2
-git clone https://github.com/RekiXploit/fake-email
+git clone https://github.com/OneTXz/fake-email
 ```
 
 #### Run
